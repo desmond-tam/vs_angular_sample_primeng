@@ -1,0 +1,11 @@
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\bin\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.deps.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\bin\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.runtimeconfig.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\bin\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.runtimeconfig.dev.json
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\bin\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.dll
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\bin\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.pdb
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.csprojResolveAssemblyReference.cache
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.csproj.CoreCompileInputs.cache
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.AssemblyInfoInputs.cache
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.AssemblyInfo.cs
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.dll
+D:\Desmond\Development\2017\VisualStudio\AngularVSUsingPrimeNG\AngularVSUsingPrimeNG\obj\Debug\netcoreapp2.0\AngularVSUsingPrimeNG.pdb
