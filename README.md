@@ -1,2 +1,2 @@
 # vs_angular_sample_primeng
-Visual Studio Angular Sample of Using PrimeNg
+Angular CLI Sample of using primeNg libraries in visual studio
